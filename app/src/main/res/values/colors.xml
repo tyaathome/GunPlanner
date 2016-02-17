@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_default">#CA3C25</color>
+    <color name="bg_title">#DF9843</color>
+    <color name="bg_odd_nor">#FFDFA8</color>
+    <color name="bg_odd_sel">#FFDFCB</color>
+    <color name="bg_even_nor">#DBBF8F</color>
+    <color name="bg_even_sel">#DBBFB0</color>
+</resources>

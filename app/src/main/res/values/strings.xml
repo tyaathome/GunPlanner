@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GunPlanner</string>
+    <string name="sign">\@Trungie2015</string>
+    <string name="planner">MyPlanner</string>
+    <string name="exit">Exit</string>
+    <string name="create_project">Create Project</string>
+    <string name="project_name">Project Name:</string>
+    <string name="project_model">Project Model:</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name:</string>
+    <string name="delete_tip">Do you wish to remove:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tasks">Tasks</string>
+    <string name="subtasks">Subtasks</string>
+    <string name="backlog">Back Log</string>
+    <string name="start">Start:</string>
+    <string name="finish">Finish:</string>
+    <string name="note">Note:</string>
+</resources>
