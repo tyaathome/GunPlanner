@@ -14,8 +14,8 @@
 
         <com.example.trungie.gunplanner.ui.myview.MyProgressAnimation
             android:id="@+id/myprogress"
-            android:layout_width="100dp"
-            android:layout_height="100dp" />
+            android:layout_width="75dp"
+            android:layout_height="75dp" />
 
         <LinearLayout
             android:layout_width="wrap_content"
